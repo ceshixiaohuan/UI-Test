@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="WebTestNG"  preserve-order="true">
+    <test name="WebExcelDriver">
+        <classes>
+            <class name="com.web.automation.WebExcelDriver">
+                <methods>
+                    <include name="webTest" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

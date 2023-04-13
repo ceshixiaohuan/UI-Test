@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WebTestNG" duration-ms="8" started-at="2023-03-14T05:39:29Z" finished-at="2023-03-14T05:39:29Z">
+    <groups>
+    </groups>
+    <test name="WebExcelDriver" duration-ms="8" started-at="2023-03-14T05:39:29Z" finished-at="2023-03-14T05:39:29Z">
+      <class name="com.web.automation.WebExcelDriver">
+        <test-method status="PASS" signature="beforSuite()[pri:0, instance:com.web.automation.WebExcelDriver@9ed238c]" name="beforSuite" is-config="true" duration-ms="889" started-at="2023-03-14T05:39:28Z" finished-at="2023-03-14T05:39:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.web.automation.WebExcelDriver@9ed238c]" name="afterSuite" is-config="true" duration-ms="27" started-at="2023-03-14T05:39:29Z" finished-at="2023-03-14T05:39:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.web.automation.WebExcelDriver -->
+    </test> <!-- WebExcelDriver -->
+  </suite> <!-- WebTestNG -->
+</testng-results>
